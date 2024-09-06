@@ -7,5 +7,5 @@ setTimeout(function() {
         console.log("Autoplay was blocked. Showing controls.");
         video.setAttribute('controls', 'controls');
     });
-}, 10000); //10 sec 
+}, 2000); // 2sec 
 }, { once: true }); 
