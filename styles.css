@@ -19,6 +19,14 @@ body {
 h1 {
     font-size: 2em;
     color: #333;
+
+}
+
+small {
+    font-size: 0.8em; 
+    color: #666; 
+    display: block; 
+    margin-top: 10px; 
 }
 
 #qr-code {
